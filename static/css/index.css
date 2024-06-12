@@ -169,3 +169,7 @@ a.card {
   width: 100%;
   height: auto;
 }
+
+header {
+  background-color: rgb(250, 250, 250);
+}
