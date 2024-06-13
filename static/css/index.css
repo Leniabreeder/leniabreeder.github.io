@@ -176,15 +176,15 @@ header {
 
 iframe {
   width: 100%;
-  height: 500px; /* Set a desired height */
+  height: 500px;
   border: none;
-  margin: 20px 0; /* Optional: Add some margin for spacing */
+  margin: 20px 0;
 }
 
 .iframe-container {
   position: relative;
   width: 100%;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  padding-bottom: 66.66%;
   height: 0;
   overflow: hidden;
 }
@@ -195,9 +195,4 @@ iframe {
   width: 100%;
   height: 100%;
   border: 0;
-}
-
-.subtitle {
-  margin-top: -1rem;
-  margin-bottom: 5rem;
 }
